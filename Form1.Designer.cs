@@ -192,7 +192,7 @@ namespace Calculator23
             // 
             // btnPlus
             // 
-            this.btnPlus.BackColor = System.Drawing.Color.Lime;
+            this.btnPlus.BackColor = System.Drawing.Color.PaleGreen;
             this.btnPlus.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPlus.Location = new System.Drawing.Point(492, 231);
             this.btnPlus.Name = "btnPlus";
@@ -204,7 +204,7 @@ namespace Calculator23
             // 
             // btnMinus
             // 
-            this.btnMinus.BackColor = System.Drawing.Color.Lime;
+            this.btnMinus.BackColor = System.Drawing.Color.PaleGreen;
             this.btnMinus.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMinus.Location = new System.Drawing.Point(492, 315);
             this.btnMinus.Name = "btnMinus";
